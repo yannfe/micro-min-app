@@ -1,0 +1,2 @@
+# micro-min-app
+microfrontends
